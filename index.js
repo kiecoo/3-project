@@ -75,9 +75,4 @@ var element = bel`
 `
 
 document.body.appendChild(element)
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
+
